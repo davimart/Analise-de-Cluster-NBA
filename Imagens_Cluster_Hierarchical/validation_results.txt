@@ -1,0 +1,19 @@
+
+Número de Clusters (Hierarchical): 3
+                 W   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                       
+0        39.166667  0.253933        17.912333                         0.665430
+1        37.800000  0.241600         6.738067                         0.148400
+2        14.583333  0.193417         2.369583                         0.086375
+Gráfico: USG_PCT vs W
+Arquivo: Imagens_Cluster_Hierarchical\scatter_USG_PCT_vs_W_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs W
+Arquivo: Imagens_Cluster_Hierarchical\scatter_SALARY_MILLIONS_vs_W_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs USG_PCT
+Arquivo: Imagens_Cluster_Hierarchical\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_USG_PCT_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs SALARY_MILLIONS
+Arquivo: Imagens_Cluster_Hierarchical\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_SALARY_MILLIONS_clusters_3_filtered.png
+

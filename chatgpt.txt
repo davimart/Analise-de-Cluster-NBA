@@ -1,0 +1,32 @@
+Eu quero fazer uma análise de conglomerados que segue essas etapas:
+
+Etapas
+1. Análise das variáveis e dos objetos a serem agrupados
+(seleção de variáveis, identificação de outliers e
+padronização)
+2. Seleção da medida de distância ou semelhança entre cada
+par de objetos
+3. Seleção do algoritmo de agrupamento: método hierárquico
+e método não hierárquico
+4. Escolha da quantidade de agrupamentos formados
+5. Interpretação e validação dos agrupamentos
+
+O nome do dataset é 'nba_2016_2017_100.csv'
+
+As variáveis são:
+
+PLAYER_NAME							Qualitativa Nominal
+W (jogos jogados e ganhos)			Quantitativa Discreta
+OFF_RATING							Quantitativa Contínua
+DEF_RATING							Quantitativa Contínua
+USG_PCT								Quantitativa Contínua
+SALARY_MILLIONS						Quantitativa Contínua
+TWITTER_FOLLOWER_COUNT_MILLIONS 	Quantitativa Discreta
+
+PLAYER_NAME vai ser só usado para identificação e não para formação dos grupos
+
+A medida de distância será a distância euclideana
+
+O método será hierárquico aglomerativo qualquer
+
+Quero formar de 3 a 5 grupos, então fazer para 3, 4 e 5 para comparar os resultados

@@ -1,0 +1,103 @@
+Análise da variável 'W':
+count    100.000000
+mean      33.020000
+std       15.421342
+min        0.000000
+25%       22.750000
+50%       35.000000
+75%       43.250000
+max       65.000000
+Name: W, dtype: float64
+
+
+Outliers for 'W' (in order from top to bottom):
+Análise da variável 'OFF_RATING':
+count    100.000000
+mean     107.728000
+std        5.157324
+min       86.800000
+25%      104.275000
+50%      107.150000
+75%      110.275000
+max      124.200000
+Name: OFF_RATING, dtype: float64
+
+
+Outliers for 'OFF_RATING' (in order from top to bottom):
+Demetrius Jackson
+JaVale McGee
+Nick Collison
+Análise da variável 'DEF_RATING':
+count    100.000000
+mean     105.946000
+std        4.165889
+min       93.000000
+25%      103.625000
+50%      106.000000
+75%      108.525000
+max      118.300000
+Name: DEF_RATING, dtype: float64
+
+
+Outliers for 'DEF_RATING' (in order from top to bottom):
+Jarnell Stokes
+Demetrius Jackson
+Brandon Bass
+Joel Bolomboy
+Edy Tavares
+Análise da variável 'USG_PCT':
+count    100.000000
+mean       0.238780
+std        0.057262
+min        0.101000
+25%        0.200750
+50%        0.243000
+75%        0.276000
+max        0.408000
+Name: USG_PCT, dtype: float64
+
+
+Outliers for 'USG_PCT' (in order from top to bottom):
+Russell Westbrook
+Análise da variável 'SALARY_MILLIONS':
+count    100.000000
+mean      11.290120
+std        8.789342
+min        0.310000
+25%        2.842500
+50%       10.820000
+75%       18.400000
+max       30.960000
+Name: SALARY_MILLIONS, dtype: float64
+
+
+Outliers for 'SALARY_MILLIONS' (in order from top to bottom):
+Análise da variável 'TWITTER_FOLLOWER_COUNT_MILLIONS':
+count    100.000000
+mean       1.516579
+std        4.345148
+min        0.000000
+25%        0.048000
+50%        0.244000
+75%        0.857750
+max       37.000000
+Name: TWITTER_FOLLOWER_COUNT_MILLIONS, dtype: float64
+
+
+Outliers for 'TWITTER_FOLLOWER_COUNT_MILLIONS' (in order from top to bottom):
+LeBron James
+Kevin Durant
+Stephen Curry
+Carmelo Anthony
+Dwyane Wade
+Dwight Howard
+Chris Paul
+Pau Gasol
+Russell Westbrook
+James Harden
+Blake Griffin
+Kyrie Irving
+Dirk Nowitzki
+Kevin Love
+Jeremy Lin
+Ricky Rubio

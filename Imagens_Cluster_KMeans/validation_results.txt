@@ -1,0 +1,19 @@
+
+Número de Clusters (K-Means): 3
+                 W   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                       
+0        40.250000  0.268821        18.393214                         0.680071
+1        36.694444  0.229806         5.832833                         0.149858
+2        10.550000  0.185400         3.569500                         0.102550
+Gráfico: USG_PCT vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_W_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_W_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs USG_PCT
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_USG_PCT_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs SALARY_MILLIONS
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_SALARY_MILLIONS_clusters_3_filtered.png
+

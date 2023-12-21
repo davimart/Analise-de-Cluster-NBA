@@ -1,0 +1,315 @@
+
+Número de Clusters (K-Means): 3
+                 W  OFF_RATING  ...  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                         ...                                                  
+0        46.700000  108.890000  ...         4.348200                         0.216600
+1        24.560976  105.253659  ...         6.166585                         0.157610
+2        41.307692  108.996154  ...        18.878846                         0.668265
+
+[3 rows x 6 columns]
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_3_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+
+Número de Clusters (K-Means): 4
+                 W  OFF_RATING  ...  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                         ...                                                  
+0        35.700000  107.020000  ...        19.271000                         1.150100
+1        21.676471  104.502941  ...         6.292647                         0.126853
+2        55.500000  110.183333  ...         7.523667                         0.449333
+3        41.518519  109.400000  ...        12.420741                         0.277515
+
+[4 rows x 6 columns]
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_4_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+
+Número de Clusters (K-Means): 5
+                 W  OFF_RATING  ...  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                         ...                                                  
+0        42.000000  109.621739  ...        12.914348                         0.302909
+1        38.222222  107.533333  ...        20.876667                         1.189778
+2        17.555556  105.200000  ...         3.804444                         0.150111
+3        26.947368  103.736842  ...         9.437895                         0.140053
+4        51.250000  110.562500  ...         6.805250                         0.370625
+
+[5 rows x 6 columns]
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_5_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+
+Número de Clusters (K-Means): 3
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        46.700000  108.890000  100.950000  0.186100         4.348200                         0.216600
+1        24.560976  105.253659  107.243902  0.233268         6.166585                         0.157610
+2        41.307692  108.996154  105.838462  0.267538        18.878846                         0.668265
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_3_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+
+Número de Clusters (K-Means): 4
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        35.700000  107.020000  106.000000  0.300800        19.271000                         1.150100
+1        21.676471  104.502941  106.891176  0.221412         6.292647                         0.126853
+2        55.500000  110.183333   99.816667  0.160333         7.523667                         0.449333
+3        41.518519  109.400000  106.114815  0.254926        12.420741                         0.277515
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_4_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+
+Número de Clusters (K-Means): 5
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        42.000000  109.621739  106.521739  0.257304        12.914348                         0.302909
+1        38.222222  107.533333  106.766667  0.293889        20.876667                         1.189778
+2        17.555556  105.200000  108.472222  0.198500         3.804444                         0.150111
+3        26.947368  103.736842  104.689474  0.255053         9.437895                         0.140053
+4        51.250000  110.562500  100.725000  0.174875         6.805250                         0.370625
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_5_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+
+Número de Clusters (K-Means): 3
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        46.700000  108.890000  100.950000  0.186100         4.348200                         0.216600
+1        24.560976  105.253659  107.243902  0.233268         6.166585                         0.157610
+2        41.307692  108.996154  105.838462  0.267538        18.878846                         0.668265
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_3_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+
+Número de Clusters (K-Means): 4
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        35.700000  107.020000  106.000000  0.300800        19.271000                         1.150100
+1        21.676471  104.502941  106.891176  0.221412         6.292647                         0.126853
+2        55.500000  110.183333   99.816667  0.160333         7.523667                         0.449333
+3        41.518519  109.400000  106.114815  0.254926        12.420741                         0.277515
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_4_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+
+Número de Clusters (K-Means): 5
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        42.000000  109.621739  106.521739  0.257304        12.914348                         0.302909
+1        38.222222  107.533333  106.766667  0.293889        20.876667                         1.189778
+2        17.555556  105.200000  108.472222  0.198500         3.804444                         0.150111
+3        26.947368  103.736842  104.689474  0.255053         9.437895                         0.140053
+4        51.250000  110.562500  100.725000  0.174875         6.805250                         0.370625
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_5_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+
+Número de Clusters (K-Means): 3
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        46.700000  108.890000  100.950000  0.186100         4.348200                         0.216600
+1        24.560976  105.253659  107.243902  0.233268         6.166585                         0.157610
+2        41.307692  108.996154  105.838462  0.267538        18.878846                         0.668265
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_3_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_3_filtered.png
+
+
+Número de Clusters (K-Means): 4
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        35.700000  107.020000  106.000000  0.300800        19.271000                         1.150100
+1        21.676471  104.502941  106.891176  0.221412         6.292647                         0.126853
+2        55.500000  110.183333   99.816667  0.160333         7.523667                         0.449333
+3        41.518519  109.400000  106.114815  0.254926        12.420741                         0.277515
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_4_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_4_filtered.png
+
+
+Número de Clusters (K-Means): 5
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        42.000000  109.621739  106.521739  0.257304        12.914348                         0.302909
+1        38.222222  107.533333  106.766667  0.293889        20.876667                         1.189778
+2        17.555556  105.200000  108.472222  0.198500         3.804444                         0.150111
+3        26.947368  103.736842  104.689474  0.255053         9.437895                         0.140053
+4        51.250000  110.562500  100.725000  0.174875         6.805250                         0.370625
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_5_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_5_filtered.png
+
+
+Número de Clusters (K-Means): 6
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        26.157895  103.984211  104.168421  0.248684         8.439474                         0.142895
+1        34.375000  109.237500  108.568750  0.249375         4.820000                         0.188375
+2        42.277778  109.450000  105.305556  0.252056        19.099444                         0.417772
+3        56.400000  109.540000   99.040000  0.161800         4.794400                         0.342400
+4        16.333333  103.891667  108.633333  0.186500         3.454167                         0.152167
+5        37.428571  107.171429  106.814286  0.297429        20.068571                         1.316571
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_6_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_6_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_6_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_6_filtered.png
+
+
+Número de Clusters (K-Means): 7
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        56.400000  109.540000   99.040000  0.161800         4.794400                         0.342400
+1        28.333333  104.011111  104.488889  0.246611         9.361111                         0.106278
+2        24.666667  104.433333  103.533333  0.351000        14.633333                         0.946333
+3        15.357143  104.521429  108.135714  0.189214         3.406429                         0.135857
+4        42.411765  109.711765  105.441176  0.252588        19.124706                         0.438524
+5        40.200000  107.860000  107.240000  0.278400        20.280000                         1.434000
+6        36.333333  109.153333  108.606667  0.249667         5.105333                         0.200800
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_7_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_7_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_7_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_7_filtered.png
+
+
+Número de Clusters (K-Means): 8
+                 W  OFF_RATING  DEF_RATING   USG_PCT  SALARY_MILLIONS  TWITTER_FOLLOWER_COUNT_MILLIONS
+Cluster                                                                                               
+0        15.866667  104.680000  108.160000  0.193133         3.200000                         0.131067
+1        43.142857  109.442857  105.228571  0.265714        19.145000                         0.346279
+2        37.928571  109.742857  108.557143  0.244071         5.522857                         0.247143
+3        27.562500  103.775000  105.612500  0.253937        10.559375                         0.115312
+4        37.125000  107.200000  106.737500  0.287875        20.168750                         1.266000
+5        56.500000  114.300000  101.500000  0.156500        18.250000                         0.947500
+6        44.428571  107.200000   99.585714  0.186429         3.170286                         0.152571
+7        13.000000  102.400000   99.100000  0.363000         4.820000                         0.793000
+Gráfico: OFF_RATING vs W
+Arquivo: Imagens_Cluster_KMeans\scatter_OFF_RATING_vs_W_clusters_8_filtered.png
+
+Gráfico: USG_PCT vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_USG_PCT_vs_OFF_RATING_clusters_8_filtered.png
+
+Gráfico: SALARY_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_SALARY_MILLIONS_vs_OFF_RATING_clusters_8_filtered.png
+
+Gráfico: TWITTER_FOLLOWER_COUNT_MILLIONS vs OFF_RATING
+Arquivo: Imagens_Cluster_KMeans\scatter_TWITTER_FOLLOWER_COUNT_MILLIONS_vs_OFF_RATING_clusters_8_filtered.png
+
